@@ -1,5 +1,6 @@
 # The-Museum-Project
 Unity Project for University exam on UI created in May 2022.
+Download The Museum.rar from releases or [here](https://github.com/KyriakosLamp/The-Museum-Project/releases)
 
 # About this Project
 I was tasked to build an application in unity and  display specific interactions between the User and the Application.
