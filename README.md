@@ -7,6 +7,6 @@ I was tasked to build an application in unity and  display specific interactions
 The assets are free from Unity Asset Store, used just as placeholders for the interaction and not part of the Project goals.
 
 # Things i learned 
--  Unity engine and how to build an application
+-  Unity basics
 -  UI basics and ideology
--  C# scripting
+-  C# basics
